@@ -1,7 +1,4 @@
-# File 35-1.py
-# Example 35. Filling a batch reactor
-# Copyright (C) 2016, Szczepan Bednarz
-# Released under the GNU General Public License
+#Batch Reactor 
 
 import matplotlib.pyplot as plt
 import numpy as np
