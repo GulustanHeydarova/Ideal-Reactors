@@ -1,10 +1,4 @@
-# File 39-1.py
-# Example 39. Isothermal semi-batch reactor
-# Copyright (C) 2016, Szczepan Bednarz
-# Released under the GNU General Public License
-
-# This code is based on LearnChemE example:
-# https://www.youtube.com/watch?v=KzMRcACcvsA
+Isothermal semi-batch reactor
 
 import matplotlib.pyplot as plt
 import numpy as np
